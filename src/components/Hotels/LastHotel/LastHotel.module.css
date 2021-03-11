@@ -1,0 +1,43 @@
+.container {
+  
+  background: rgba(90, 175, 209, 0.589);
+  height: 180px;
+  padding: 15px;
+  max-width: 900px;
+  margin: 5px auto;
+}
+
+.elements {
+  font-size: 1.2rem;
+  font-weight: bold;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-around;
+  color:rgb(255, 0, 0);
+  margin: auto;
+}
+
+.sizeFont {
+  font-size: 1.2rem;
+  background: greenyellow;
+  padding: 3px 7px;
+  border-radius: 10px;
+}
+
+/* .container a {
+  background: burlywood;
+  padding: 5px 4px 4px 8px;
+  border-radius: 10px;
+  letter-spacing: 1px;
+} */
+.container h3 {
+  text-align: center;
+}
+
+.container a:hover {
+  background: rgb(245, 241, 6)
+}
+
+.noMatch {
+  text-align: center;
+}

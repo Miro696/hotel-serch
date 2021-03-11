@@ -1,0 +1,7 @@
+.hotels {
+  background: rgb(205, 207, 182);
+  max-width: 900px;
+  border: 1px solid gray;
+  margin: auto;
+  padding: 5px;
+}

@@ -1,0 +1,24 @@
+
+  .hotel {
+    box-sizing: border-box;
+    max-width: 900px;
+    background:  rgb(214, 216, 205) !important;
+    margin-top: 5px;
+    border: solid 1px gray;
+    padding: 5px;
+  }
+
+  .name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: brown;
+  }
+
+  .city {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: blue;
+    background: rgb(235, 207, 132);
+    padding: 3px;
+    border-radius: 30px;
+  }
